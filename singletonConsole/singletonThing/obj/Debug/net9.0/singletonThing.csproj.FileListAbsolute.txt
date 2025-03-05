@@ -1,0 +1,14 @@
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\singletonThing.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\singletonThing.AssemblyInfoInputs.cache
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\singletonThing.AssemblyInfo.cs
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\singletonThing.csproj.CoreCompileInputs.cache
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\bin\Debug\net9.0\singletonThing.exe
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\bin\Debug\net9.0\singletonThing.deps.json
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\bin\Debug\net9.0\singletonThing.runtimeconfig.json
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\bin\Debug\net9.0\singletonThing.dll
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\bin\Debug\net9.0\singletonThing.pdb
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\singletonThing.dll
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\refint\singletonThing.dll
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\singletonThing.pdb
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\singletonThing.genruntimeconfig.cache
+c:\Users\lab_services_student\Desktop\vsPorgrams\singletonConsole\singletonThing\obj\Debug\net9.0\ref\singletonThing.dll
